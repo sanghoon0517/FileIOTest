@@ -1,4 +1,4 @@
-package kr.co.jsh.test.steam.file.output;
+package kr.co.jsh.test.stream.file.output;
 
 import java.awt.Desktop;
 import java.io.*;

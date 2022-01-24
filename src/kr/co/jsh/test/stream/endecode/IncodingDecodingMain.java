@@ -1,4 +1,4 @@
-package kr.co.jsh.test.steam.endecode;
+package kr.co.jsh.test.stream.endecode;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package kr.co.jsh.test.steam.file.reader;
+package kr.co.jsh.test.stream.file.reader;
 
 import java.io.*;
 

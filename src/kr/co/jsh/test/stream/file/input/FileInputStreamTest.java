@@ -1,4 +1,4 @@
-package kr.co.jsh.test.steam.file.input;
+package kr.co.jsh.test.stream.file.input;
 
 import java.io.*;
 

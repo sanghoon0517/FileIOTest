@@ -1,4 +1,4 @@
-package kr.co.jsh.test.steam.bytearray;
+package kr.co.jsh.test.stream.bytearray;
 
 import java.io.*;
 
